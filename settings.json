@@ -1,0 +1,38 @@
+{
+  "vscode-home-assistant.hostUrl": "http://192.168.1.230:8123",
+  "vscode-home-assistant.longLivedAccessToken": "secret",
+  "remote.SSH.remotePlatform": {
+    "NUC": "linux",
+    "docker": "linux"
+  },
+  "workbench.editorAssociations": {
+    "*.ipynb": "jupyter.notebook.ipynb"
+  },
+  "python.showStartPage": true,
+  "terminal.integrated.defaultProfile.windows": "Ubuntu (WSL)",
+  "workbench.startupEditor": "none",
+  "liveServer.settings.donotVerifyTags": true,
+  "liveServer.settings.donotShowInfoMsg": true,
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.wordWrap": "on",
+  "prettier.singleQuote": true,
+  "prettier.jsxSingleQuote": true,
+  "prettier.semi": false,
+  "javascript.format.semicolons": "remove",
+  "window.zoomLevel": 3,
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.tabSize": 2,
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+  "[javascriptreact]": {
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "security.workspace.trust.untrustedFiles": "open",
+  "bracketPairColorizer.depreciation-notice": false,
+  "workbench.colorTheme": "GitHub Dark"
+}
